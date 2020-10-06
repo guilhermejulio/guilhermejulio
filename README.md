@@ -35,8 +35,5 @@
 
 <br/>
 
-## Buy me a Coffee
-Do you want to support me in some way? buy me a coffee. </br>
-<a href="https://www.buymeacoffee.com/guilhermejulio" target="_blank"><img align="center" src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 
 thx <3
