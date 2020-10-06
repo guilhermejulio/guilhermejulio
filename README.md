@@ -8,7 +8,7 @@
 - **Data Science**
 - **AI**
 - **Dev WEB**
-- **Blockchain**
+- **Java**
 - **TDD**
 - **Python**
 - **UX / UI**
