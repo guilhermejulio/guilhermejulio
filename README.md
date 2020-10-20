@@ -5,14 +5,14 @@
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
-- **Data Science**
-- **AI**
-- **Dev WEB**
+- **GoStack Bootcamp #14**
+- **Node.js**
+- **React**
+- **React Native**
 - **Java**
 - **TDD**
-- **Python**
 - **UX / UI**
-- **Analysis of algorithms**
+- **Project and Analysis of Algorithms**
 
 ## My stats 
 
