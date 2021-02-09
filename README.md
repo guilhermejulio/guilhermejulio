@@ -15,7 +15,7 @@
 - **Java**
 - **TDD**
 - **UX / UI**
-- **Project and Analysis of Algorithms**
+- **Software design**
 
 ## My stats 
 
