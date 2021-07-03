@@ -1,8 +1,12 @@
-### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
-<em>I am a undergraduate student in Software Engineer at the <a href="https://www.pucminas.br/"><b>Pontifícia Universidade Católica de Minas Gerais (PUC-Minas)</b></a>. I started my studies in 2017, and I love technology & solve problems 😍. </em>
+### Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px"> <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px">
+I am a undergraduate student in Software Engineer at the <a href="https://www.pucminas.br/"><b>Pontifícia Universidade Católica de Minas Gerais (PUC-Minas)</b></a>. I started my studies in 2017, and I love technology & solve problems 😍.
  <br/>
  
--  ⚡ Technologies: React, Node, React-Native, Java, C#
+## :man_technologist: Project I'm working on: 
+
+- I'm working as a Full Stack Developer on the <a href="https://swampum.com//"><b>Swampum</b></a> project, which is an exclusive community where you can share stuffs you have, or find what you need.
+ 
+-  ⚡ Technologies that I work: Vue.js, Atomic Design, E2E Tests with Cypress and Cucumber, Node.js
 
 ## 🌱 I’m currently learning ...
 
@@ -10,10 +14,10 @@
 
 - **[Ignite Bootcamp #1](https://rocketseat.com.br/)**
 - **Node.js**
-- **React**
-- **React Native**
 - **Java**
-- **TDD**
+- **Vue.js**
+- **E2E Tests**
+- **Cypress with Cucumber**
 - **UX / UI**
 - **Software design**
 
