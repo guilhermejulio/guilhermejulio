@@ -2,20 +2,21 @@
 I am a undergraduate student in Software Engineer at the <a href="https://www.pucminas.br/"><b>Pontifícia Universidade Católica de Minas Gerais (PUC-Minas)</b></a>. I started my studies in 2017, and I love technology & solve problems 😍.
  <br/>
  
-## :man_technologist: Project I'm working on: 
+## :man_technologist: I'm working on: 
 
-- I'm working as a Full Stack Developer on the <a href="https://swampum.com"><b>Swampum</b></a> project, which is an exclusive community where you can share stuffs you have, or find what you need.
+- I'm a Software Engineer at the [IEBT Innovation](https://iebtinovacao.com.br/), working on projects as frontend developer, backend developer, architecture, and project teach leader.
  
--  ⚡ Technologies that I work: Vue.js, Atomic Design, E2E Tests with Cypress and Cucumber, Node.js
+-  ⚡ Technologies that I work/already worked: Javascript, Typescript, Python, React, .Net Rest API, Django Rest Framework, Vue.js, Node.js (Loopback/Express), Cypress with Cucumber, PostgreSQL, MySQL, Amazon Web Services.
+
+-  🐱‍👤 Projects I worked: [Zing Innovation](https://iebtinovacao.com.br/), [Swampum](https://swampum.com/), [Ligo](https://ligohub.com/), [Transforma +](https://www.transformamais.com.br/), and others...
 
 ## 🌱 I’m currently learning ...
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
-- **[Ignite Bootcamp #1](https://rocketseat.com.br/)**
-- **Node.js**
-- **Java**
-- **Vue.js**
+- **React**
+- **.NET**
+- **DevOps**
 - **E2E Tests**
 - **Cypress with Cucumber**
 - **UX / UI**
