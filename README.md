@@ -19,8 +19,7 @@ I am a undergraduate student in Software Engineer at the <a href="https://www.pu
 - **DevOps**
 - **E2E Tests**
 - **Cypress with Cucumber**
-- **UX / UI**
-- **Software design**
+- **Software security**
 
 ## My stats 
 
