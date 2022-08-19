@@ -14,11 +14,11 @@ I am a undergraduate student in Software Engineer at the <a href="https://www.pu
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
+- **PHP**
+- **Laravel**
 - **React**
 - **.NET**
 - **DevOps**
-- **E2E Tests**
-- **Cypress with Cucumber**
 - **Software security**
 
 ## My stats 
