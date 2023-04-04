@@ -4,9 +4,9 @@ I am a undergraduate student in Software Engineer at the <a href="https://www.pu
  
 ## :man_technologist: I'm working on: 
 
-- I'm a Software Engineer at the [IEBT Innovation](https://iebtinovacao.com.br/), working on projects as frontend developer, backend developer, architecture, and project teach leader.
+- I'm a Software Engineer at the [IEBT Innovation](https://iebtinovacao.com.br/), working on projects as backend developer.
  
--  ⚡ Technologies that I work/already worked: Javascript, Typescript, Python, React, .Net Rest API, Django Rest Framework, Vue.js, Node.js (Loopback/Express), Cypress with Cucumber, PostgreSQL, MySQL, Amazon Web Services.
+-  ⚡ Technologies that I work/already worked: PHP, Laravel, Javascript, Typescript, Python, React, .Net Rest API, Django Rest Framework, Vue.js, Node.js (Loopback/Express), Cypress with Cucumber, PostgreSQL, MySQL, Amazon Web Services.
 
 -  🐱‍👤 Projects I worked: [Zing Innovation](https://iebtinovacao.com.br/), [Swampum](https://swampum.com/), [Ligo](https://ligohub.com/), [Transforma +](https://www.transformamais.com.br/), and others...
 
@@ -16,8 +16,6 @@ I am a undergraduate student in Software Engineer at the <a href="https://www.pu
 
 - **PHP**
 - **Laravel**
-- **React**
-- **.NET**
 - **DevOps**
 - **Software security**
 
